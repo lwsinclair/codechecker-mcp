@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jacklandis29-codechecker-mcp-badge.png)](https://mseep.ai/app/jacklandis29-codechecker-mcp)
+
 # CodeChecker MCP
 
 A code review tool for Cursor IDE that uses OpenAI's GPT models to provide intelligent code analysis and suggestions.
